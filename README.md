@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=enzo-q&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=enzo-q&style=flat-square&color=blueviolet" alt="Profile Views" />
   <br><br>
   
   <img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721115005754-CRL27OWA47LU30WWERL1/16.gif" alt="Credits to Mienar" width="600">
@@ -60,8 +60,4 @@ I became interested in programming after seeing experienced developers build awe
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enzo-q&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" height="150" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-q&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </div>
